@@ -1,4 +1,4 @@
-module go-xivapi
+module github.com/jinivus/go-xivapi
 
 go 1.18
 
